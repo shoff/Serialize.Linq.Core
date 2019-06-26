@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>2.0.0</Version>
+    <FileVersion>22.0.0.0</FileVersion>
+    <Description>dotnet core version of Serialize.Linq</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ChaosMonkey.Guards.NetStandard" Version="1.0.23" />
+  </ItemGroup>
+
+</Project>

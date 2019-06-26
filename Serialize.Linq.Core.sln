@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialize.Linq.Core", "Serialize.Linq.Core\Serialize.Linq.Core.csproj", "{8E423A09-26DC-46F7-8AA8-2F2DED6E1E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialize.Linq.Tests", "Serialize.Linq.Tests\Serialize.Linq.Tests.csproj", "{56E25368-0E9D-44CC-8CE1-D1A1CAFDFF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E423A09-26DC-46F7-8AA8-2F2DED6E1E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E423A09-26DC-46F7-8AA8-2F2DED6E1E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E423A09-26DC-46F7-8AA8-2F2DED6E1E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E423A09-26DC-46F7-8AA8-2F2DED6E1E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E25368-0E9D-44CC-8CE1-D1A1CAFDFF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E25368-0E9D-44CC-8CE1-D1A1CAFDFF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E25368-0E9D-44CC-8CE1-D1A1CAFDFF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E25368-0E9D-44CC-8CE1-D1A1CAFDFF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F0D205-BBC5-43C6-A278-A5E41BF4FFB7}
+	EndGlobalSection
+EndGlobal
